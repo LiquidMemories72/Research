@@ -1,0 +1,4 @@
+*.pth
+COVID_19_dataset/
+__MACOSX/
+.ipynb_checkpoints/
